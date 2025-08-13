@@ -72,23 +72,36 @@ document.addEventListener('DOMContentLoaded', function() {
     // Project data
     const projects = [
         {
-            title: "Book_Store Portfolio",
-            description: "A full-featured online Book store with free Download. Multiple Genre books available  (Site in Progress)",
-            image: "Book.jpg",
-            link: "https://md-nethunter.github.io/bookdow.com/"
+            title: "Classicnews",
+            description: "Your trusted source for breaking news, in-depth analysis, and comprehensive coverage of global events.",
+            image: "news.jpg",
+            link: "https://classicnews.live/"
         },
         {
-            title: "Earth_movers site",
+            title: "AtEnginering",
             description: "A responsive Earth_movers site  template for creative professionals.",
             image: "At.jpg",
             link:"https://atengineering.tech/"
         },
         {
-            title: "Tik Tak Toe game site",
-            description: "A Tik Tak Toe game pirtfolio . A fully funtional site of enjoynment",
-            image: "Tik.jpg",
-            link:"https://md-nethunter.github.io/Tic-Tac-Toe/"
+            title: "EduBlog",
+            description: "Your Gateway to Educational Excellence",
+            image: "edu1.jpg",
+            link:"https://mezanhayat.github.io/EduBlog-/"
+        },
+        {
+            title: "EduBlog(Under Construction)",
+            description: "Your Gateway to Educational Excellence",
+            image: "edu2.jpg",
+            link:"https://md-rehanullah.github.io/EduBlog/index.html"
+        },
+        {
+            title: "Namrata's Studio(In Progress)",
+            description: "Kolkata's Premier Makeup Destination",
+            image: "nam.jpg",
+            link:"https://md-rehanullah.github.io/Namrata-studio-/#home"
         }
+        
     ];
     
     // Generate project cards
