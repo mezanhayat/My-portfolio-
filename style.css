@@ -188,7 +188,7 @@ main img{
 
 .projects h2 {
     margin-bottom: 2rem;
-    color: var(--primary-color);
+    color: black;
 }
 
 .projects-grid {
